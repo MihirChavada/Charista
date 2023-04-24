@@ -16,7 +16,7 @@ MySQL
 # Installation
 To install and run Charista locally, follow these steps:
 
-(1) Clone the repository to your local machine using git clone https://github.com/<your-username>/charista.   
+(1) Clone the repository to your local machine using git clone ***https://github.com/<your-username>/charista.***       
 (2) git
 Import the project into your IDE of choice (e.g. Eclipse, IntelliJ, etc.)   
 (3) Run the project using the built-in server or deploy it to a web server of your choice.
@@ -29,13 +29,14 @@ To use Charista, simply visit the website and follow the instructions provided.
 If you'd like to contribute to Charista, please follow these guidelines:
 
 (1) Fork the repository to your own GitHub account.   
-(2) Clone the repository to your local machine using git clone https://github.com/<your-username>/charista.git  
-(3) Create a new branch for your changes using git checkout -b <branch-name>   
-(4) Make your changes and commit them using git commit -m "<commit-message>"   
-(5) Push your changes to your forked repository using git push origin <branch-name>   
+(2) Clone the repository to your local machine using ***git clone https://github.com/<your-username>/charista.git***       
+(3) Create a new branch for your changes using ***git checkout -b branch-name***      
+(4) Make your changes and commit them using ***git commit -m "commit-message"***        
+(5) Push your changes to your forked repository using ***git push origin branch-name***       
 (6) Create a pull request to merge your changes into the main Charista repository.   
 
-#Acknowledgements
+# Acknowledgements    
+
 Charista uses the following open-source libraries and frameworks:
 
 (1) Bootstrap   
